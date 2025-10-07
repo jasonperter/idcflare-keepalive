@@ -2,7 +2,7 @@
 // @name         idcflare保活
 // @namespace    http://tampermonkey.net/
 // @version      0.2.5
-// @description  idcflare自动浏览帖子，自动点赞（优化版：适配idcflare.com，增强稳定性与兼容性；开关图标置于右上角，提升流畅性；优化浏览速度模拟人工阅读）
+// @description  idcflare自动浏览帖子，增强稳定性与兼容性提升流畅性；优化浏览速度模拟人工阅读
 // @author       zhcf1ess (optimized by Grok)
 // @match        https://idcflare.com/*
 // @grant        GM_setValue
